@@ -18,5 +18,6 @@
 			</tr>
 		</table>
 	</form>
+	<a href="<%=request.getContextPath()%>/OrderFood">Order Food</a>
 </body>
 </html>
