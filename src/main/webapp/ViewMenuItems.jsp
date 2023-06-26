@@ -16,9 +16,6 @@
 				<td><input type="text" name="searchItem" id="searchItem" /></td>
 				<td><input type="submit" value="Search"></td>
 			</tr>
-
-
-
 		</table>
 	</form>
 </body>
